@@ -1,0 +1,30 @@
+{
+  "id": "",
+  "name": "",
+  "font_family": "iconfont",
+  "css_prefix_text": "icon-",
+  "description": "",
+  "glyphs": [
+    {
+      "icon_id": "894856",
+      "name": "me",
+      "font_class": "iconme",
+      "unicode": "e600",
+      "unicode_decimal": 58880
+    },
+    {
+      "icon_id": "1009876",
+      "name": "group",
+      "font_class": "group",
+      "unicode": "e62b",
+      "unicode_decimal": 58923
+    },
+    {
+      "icon_id": "8756559",
+      "name": "copy",
+      "font_class": "ic_copy",
+      "unicode": "e64e",
+      "unicode_decimal": 58958
+    }
+  ]
+}
